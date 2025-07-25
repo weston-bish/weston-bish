@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi there 👋 I'm Weston
+
+A computer science student who is passionate about **web dev**, **DevOps**, and **Linux systems** - as well as international relations and marketing.
+
+I love building systems and scripts that make life easier.
+
+Currently working on various side-hustles.
+
+**I am looking for SWE or DevOps full-time work.**
+
+Reach me at westonbishop366@gmail.com
+
+*“An idiot admires complexity, a genius admires simplicity"* -Terry Davis
 
 <!--
 **weston-bish/weston-bish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
