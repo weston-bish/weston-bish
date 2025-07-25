@@ -10,8 +10,6 @@ Currently working on various side-hustles.
 
 Reach me at westonbishop366@gmail.com
 
-*“An idiot admires complexity, a genius admires simplicity"*
-
 <!--
 **weston-bish/weston-bish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
