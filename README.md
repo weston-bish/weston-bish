@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Weston
+## Hello 👋 I'm Weston
 
 A computer science student who is passionate about **web dev**, **DevOps**, and **Linux systems** - as well as international relations and marketing.
 
