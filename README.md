@@ -1,7 +1,6 @@
 ## Hello 👋 I'm Weston
 
-A computer science student who is passionate about **web dev**, **DevOps**, and **Linux systems** - as well as international relations and marketing.
-
+A computer science student who is passionate about **web dev**, **DevOps**, and **Linux systems** - as well as international relations, fitness, and marketing.
 I love building systems and scripts that make life easier.
 
 Currently working on various side-hustles.
