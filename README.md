@@ -1,11 +1,8 @@
 ## Hello 👋 I'm Weston
 
-A computer science student who is passionate about **web dev**, **DevOps**, and **Linux systems** - as well as international relations, fitness, and marketing.
-I love building systems and scripts that make life easier.
+I'm currently working on still
 
-Currently working on various side-hustles.
-
-**I am looking for SWE or DevOps full-time work.**
+**I am looking for a full-time SWE job.**
 
 Reach me at westonbishop366@gmail.com
 
