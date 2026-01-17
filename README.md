@@ -2,7 +2,7 @@
 
 I'm currently working on still
 
-**I am looking for a full-time SWE or DevOps job.**
+**I am looking for a full-time DevOps/SWE job.**
 
 Reach me at westonbishop366@gmail.com
 
