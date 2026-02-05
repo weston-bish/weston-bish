@@ -1,6 +1,6 @@
 ## Hello 👋 I'm Weston
 
-I'm currently working on still
+I'm currently working on a compiler
 
 **I am looking for a full-time DevOps/SWE job.**
 
