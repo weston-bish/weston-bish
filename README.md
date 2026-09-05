@@ -1,11 +1,5 @@
 ## Hello 👋 I'm Weston
 
-I'm currently working on a compiler
-
-**I am looking for a full-time DevOps/SWE job.**
-
-Reach me at westonbishop366@gmail.com
-
 <!--
 **weston-bish/weston-bish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
